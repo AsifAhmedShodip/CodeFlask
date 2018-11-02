@@ -1,0 +1,28 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: url("login_back.jpeg");
+    background-position: center;
+    font-family: sans-serif;
+}
+.registerbox
+{
+    width: 50%;
+    height: 620px;
+    background-color: #1d2124;
+    position: absolute;
+    top: 50px;
+    padding: 5%;
+
+}
+.coderavatar
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+}
+h1   {color: white}
+p    {color: red;}

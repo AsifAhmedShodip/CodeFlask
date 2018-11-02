@@ -1,0 +1,29 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: url("login_back.jpeg");
+    background-position: center;
+    font-family: sans-serif;
+}
+.lohinbox
+{
+    width: 620px;
+    height: 420px;
+    background-color: #1d2124;
+    position: absolute;
+    padding: 5%;
+    top:150px
+
+}
+.coderavatar
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top:-50px
+}
+h1   {color: white}
+p    {color: red;}
+
