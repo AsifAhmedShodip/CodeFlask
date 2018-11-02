@@ -1542,7 +1542,7 @@ def graphbuild():
 if __name__ == '__main__':
     app.secret_key = 'SUPER SECRET KEY'
     app.config['SESSION_TYPE'] = 'filesystem'
-    # sess.init_app(app) # uncomment this
+    sess.init_app(app) # uncomment this
 
     app.debug = True
     app.run()
